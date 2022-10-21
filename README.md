@@ -52,4 +52,4 @@ Networks Based on Motifs](https://arxiv.org/abs/1609.02907)
 
 ### My sincere appreciation to **Bigmama Technology** for this challange.
 
-### Author : **Ramy HAFDI**
+### Author : **Ramy HAFDI**.
