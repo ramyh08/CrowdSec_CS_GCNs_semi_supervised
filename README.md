@@ -25,10 +25,10 @@ The goal of this homework assignment is to assess my ability to deal with real d
 
 
 
-- **Attack type classifier**
+- **Attack type classifier** :
     - Implementation of GCN (graph convolutional network) for node classification (Attack type)
 
-- **Classification with semi supervised learning** (is_malicious IP_validated)
+- **Classification with semi supervised learning** : (is_malicious IP_validated)
     - Label propagation
     - XGB classifier
 
@@ -42,7 +42,7 @@ Networks Based on Motifs](https://arxiv.org/abs/1609.02907)
 
 ### **Future steps**
 * Try to build the graph with **jraph**, a lightweight library for working with **GNNs** in **JAX**.
-## specification 
+## Specification 
 
 - Windows 11
 - python version : 3.7.13
