@@ -48,8 +48,8 @@ Networks Based on Motifs](https://arxiv.org/abs/1609.02907)
 - python version : 3.7.13
 - RAM : 16 GB
 - CPU : Intel i5-9300H CPU @ 2.40GHz   2.40 GHz
-- GPU : Nvidia RTX2060
+- GPU : NVIDIA GeForce RTX 2060
 
-### My sincers apperciations to **Bigmama Technology** for this challange.
+### My sincere appreciation to **Bigmama Technology** for this challange.
 
 ### Author : **Ramy HAFDI**
