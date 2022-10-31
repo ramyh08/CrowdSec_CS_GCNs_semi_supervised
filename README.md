@@ -36,9 +36,7 @@ The goal of this homework assignment is to assess my ability to deal with real d
 * [**Scikit-learn**, Semi-Supervised.](https://scikit-learn.org/stable/modules/semi_supervised.html#label-propagation)
 * [**Thomas Kipf**, GRAPH CONVOLUTIONAL NETWORKS.](http://tkipf.github.io/graph-convolutional-networks/)
 * [**Gowri Shankar**, Graph Convolution Network - A Practical Implementation of Vertex Classifier and it's Mathematical Basis](https://gowrishankar.info/blog/graph-convolution-network-a-practical-implementation-of-vertex-classifier-and-its-mathematical-basis/#graph-nn-classifier)
-* [**Xing Li, Wei Wei, Xiangnan Feng, Xue Liu, Zhiming Zheng**,Representation Learning of Graphs
-Using Graph Convolutional Multilayer
-Networks Based on Motifs](https://arxiv.org/abs/1609.02907)
+* [**Xing Li, Wei Wei, Xiangnan Feng, Xue Liu, Zhiming Zheng**, Representation Learning of Graphs Using Graph Convolutional Multilayer Networks Based on Motifs](https://arxiv.org/abs/1609.02907)
 
 ### **Future steps**
 * Try to build the graph with **jraph**, a lightweight library for working with **GNNs** in **JAX**.
